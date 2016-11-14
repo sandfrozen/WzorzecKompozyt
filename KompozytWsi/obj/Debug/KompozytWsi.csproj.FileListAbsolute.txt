@@ -1,0 +1,6 @@
+c:\users\a5us\documents\visual studio 2015\Projects\KompozytWsi\KompozytWsi\bin\Debug\KompozytWsi.exe.config
+c:\users\a5us\documents\visual studio 2015\Projects\KompozytWsi\KompozytWsi\bin\Debug\KompozytWsi.exe
+c:\users\a5us\documents\visual studio 2015\Projects\KompozytWsi\KompozytWsi\bin\Debug\KompozytWsi.pdb
+c:\users\a5us\documents\visual studio 2015\Projects\KompozytWsi\KompozytWsi\obj\Debug\KompozytWsi.csprojResolveAssemblyReference.cache
+c:\users\a5us\documents\visual studio 2015\Projects\KompozytWsi\KompozytWsi\obj\Debug\KompozytWsi.exe
+c:\users\a5us\documents\visual studio 2015\Projects\KompozytWsi\KompozytWsi\obj\Debug\KompozytWsi.pdb
